@@ -11491,7 +11491,9 @@ p {
 }
 
 .site-heading-lower {
-<<<<<<< HEAD
   color: #d63384
 }
 
+#footertext {
+      font-size:22px;
+}
